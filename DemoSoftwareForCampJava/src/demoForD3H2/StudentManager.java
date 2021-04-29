@@ -7,7 +7,7 @@ public class StudentManager extends UserManager {
 	}
 	
 	public void leaveComment() {
-		System.out.println("Yorum gönderildi!");
+		System.out.println("Yorum gönderildi!!");
 	}
 
 }
